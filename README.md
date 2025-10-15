@@ -1,18 +1,9 @@
-# Welcome to your Lovable project
+Final version of BrokeTribe
 
-## Project info
 
 **URL**: https://lovable.dev/projects/76731d96-d143-40a3-b5cd-4f2d72567768
 
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/76731d96-d143-40a3-b5cd-4f2d72567768) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
+[Lovable Project](https://lovable.dev/projects/76731d96-d143-40a3-b5cd-4f2d72567768) and start prompting.
 
 **Use your preferred IDE**
 
