@@ -193,7 +193,7 @@ const DashboardHeader = ({ userName, allowanceLeft, totalAllowance, dayStreak, w
           onClick={() => window.location.href = '/broketribe'}
           className="text-xl text-secondary underline mt-2"
         >
-          see more insights
+          participate in challenges
         </button>
       </div>
     </div>

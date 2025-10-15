@@ -58,7 +58,16 @@ const BrokeTribe = () => {
                   <p className="text-xl text-foreground">Beat her to it next week by skipping your Matcha Latte for the next 2 days ☕💪</p>
                 </div>
                 <div className="p-4 bg-muted/30 rounded-2xl border-2 border-accent">
-                  <p className="text-xl text-foreground">Try minis 🧴before full-size — Mira bought mini skincare products from smytten's trial packs and maximised her savings💅</p>
+                  <p className="text-xl text-foreground">
+                    Try minis 🧴before full-size — Mira bought mini skincare products from smytten's trial packs and maximised her savings💅
+                    {" "}
+                    <button 
+                      onClick={() => window.location.href = '/shopping'}
+                      className="text-secondary underline hover:opacity-80 transition-opacity"
+                    >
+                      see the deal
+                    </button>
+                  </p>
                 </div>
                 <div className="p-4 bg-muted/30 rounded-2xl border-2 border-accent">
                   <p className="text-xl text-foreground">DIY snack day 🍕 — skip Zomato, raid your kitchen and make something gourmet for ₹0 😎</p>
